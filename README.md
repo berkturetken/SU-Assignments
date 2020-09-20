@@ -1,1 +1,1 @@
-# Sabancı University CS / EE Assignments
+# Sabancı University Computer Science & Engineering Assignments
