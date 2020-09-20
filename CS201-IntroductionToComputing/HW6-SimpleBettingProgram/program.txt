@@ -1,0 +1,9 @@
+139 Kayseri Erciyesspor - Trabzonspor	2.35	3.40	2.85
+190	Gaziantepspor - Genclerbirligi	2.00	3.20 2.60
+283	Bursaspor - Elazigspor	1.60 3.30 	3.60
+284 Galatasaray - Kasimpasa	1.25 4.00 		6.75
+227 Akhisar Bld.G.Spor - Kayserispor	1.80 		3.20 3.00
+342 Rizespor - Konyaspor	2.00 3.20   2.60
+416 Besiktas - Fenerbahce	2.15 3.30 			2.30
+629 Antalyaspor - Sivasspor	1.80 3.20   3.00
+630 Karabukspor - Eskisehirspor	1.80 		3.20 3.00
