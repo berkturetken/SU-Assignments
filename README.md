@@ -12,7 +12,7 @@ This section includes all CS204 assignments written in C++
 
 This section includes all CS300 assignments written in C++
 
-## [CS403 - Distributed Systems](https://github.com/berkturetken/SU-Assignments/tree/master/CS300-DataStructures)
+## [CS403 - Distributed Systems](https://github.com/berkturetken/SU-Assignments/tree/master/CS403-DistributedSystems)
 
 This section includes all CS403 assignments written in Python
 
