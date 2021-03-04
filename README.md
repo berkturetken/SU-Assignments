@@ -24,6 +24,10 @@ This section includes all CS412 assignments written in Python
 
 This section includes all EE310 assignments written in Verilog
 
+## [EE311 - Introduction to Signal Processing and Information Systems](https://github.com/berkturetken/SU-Assignments/tree/master/EE310-HardwareDescriptionLanguages)
+
+This section includes all EE311 assignments written in MATLAB
+
 ## [IF100 - Computational Approaches to Problem Solving](https://github.com/berkturetken/SU-Assignments/tree/master/IF100-ComputationalApproachesToProblemSolving)
 
 This section includes all IF100 assignments written in Python
