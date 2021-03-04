@@ -24,7 +24,7 @@ This section includes all CS412 assignments written in Python
 
 This section includes all EE310 assignments written in Verilog
 
-## [EE311 - Introduction to Signal Processing and Information Systems](https://github.com/berkturetken/SU-Assignments/tree/master/EE311-IntroductionToSignalProcessingAndInformationSystems)
+## [EE311 - Introduction to Signal Processing](https://github.com/berkturetken/SU-Assignments/tree/master/EE311-IntroductionToSignalProcessingAndInformationSystems)
 
 This section includes all EE311 assignments written in MATLAB
 
