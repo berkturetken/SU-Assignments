@@ -26,7 +26,7 @@ This section includes all EE310 assignments written in Verilog
 
 ## [EE311 - Introduction to Signal Processing and Information Systems](https://github.com/berkturetken/SU-Assignments/tree/master/EE311-IntroductionToSignalProcessingAndInformationSystems)
 
-This section includes all EE311 assignments written in MATLAB
+This section includes all EE311 assignments and the course project written in MATLAB
 
 ## [IF100 - Computational Approaches to Problem Solving](https://github.com/berkturetken/SU-Assignments/tree/master/IF100-ComputationalApproachesToProblemSolving)
 
