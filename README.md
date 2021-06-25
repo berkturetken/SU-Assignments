@@ -20,7 +20,7 @@ This section includes all CS403 assignments written in Python
 
 This section includes all CS412 assignments written in Python
 
-## [CS432 - Computer and Network Security](https://github.com/berkturetken/SU-Assignments/tree/master/CS412-MachineLearning)
+## [CS432 - Computer and Network Security](https://github.com/berkturetken/CS432-532-Group-Project-2021-Spring)
 
 Redirects to CS432 course project written in C#
 
