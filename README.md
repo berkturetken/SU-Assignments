@@ -16,6 +16,10 @@ This section includes all CS300 assignments written in C++
 
 This section includes all CS403 assignments written in Python
 
+## [CS408 - Computer Networks](https://github.com/berkturetken/Social-Networking-Application)
+
+Goes to CS432 course project written in C#
+
 ## [CS412 - Machine Learning](https://github.com/berkturetken/SU-Assignments/tree/master/CS412-MachineLearning)
 
 This section includes all CS412 assignments written in Python
