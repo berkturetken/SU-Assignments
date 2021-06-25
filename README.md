@@ -20,6 +20,10 @@ This section includes all CS403 assignments written in Python
 
 This section includes all CS412 assignments written in Python
 
+## [CS432 - Computer and Network Security](https://github.com/berkturetken/SU-Assignments/tree/master/CS412-MachineLearning)
+
+Redirects to CS432 course project written in C#
+
 ## [EE310 - Hardware Description Languages](https://github.com/berkturetken/SU-Assignments/tree/master/EE310-HardwareDescriptionLanguages)
 
 This section includes all EE310 assignments written in Verilog
