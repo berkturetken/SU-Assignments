@@ -36,6 +36,10 @@ This section includes all EE310 assignments written in Verilog
 
 This section includes all EE311 assignments and the course project written in MATLAB
 
+## [ENS206 - Systems Modelling & Control](https://github.com/berkturetken/SU-Assignments/tree/master/EE310-HardwareDescriptionLanguages)
+
+Goes to ENS206 course project written in MATLAB
+
 ## [IF100 - Computational Approaches to Problem Solving](https://github.com/berkturetken/SU-Assignments/tree/master/IF100-ComputationalApproachesToProblemSolving)
 
 This section includes all IF100 assignments written in Python
